@@ -5,3 +5,6 @@ See: Vallino, J.J. and Huber, J.A. (2018) Using maximum entropy production to de
 
 Model equations are provided in the supplemental material found here: 
 https://www.frontiersin.org/articles/10.3389/fenvs.2018.00100/full#supplementary-material
+
+<a href="https://zenodo.org/badge/latestdoi/128092947"><img src="https://zenodo.org/badge/128092947.svg" alt="DOI"></a>
+
